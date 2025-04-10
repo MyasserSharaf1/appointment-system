@@ -6,6 +6,7 @@
 
 ##  Features
 
+
 ### Core Functionality
 - **Role-based authentication flow** (Patient, Doctor, Admin)
 - **Appointment scheduling** with time slot validation
